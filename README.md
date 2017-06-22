@@ -16,7 +16,7 @@ So we will try to solve your problem (and only your problem) together with you. 
 
 ## So my question is answered in an issue?
 
-Yes! Github issues are a great Q&A tool. We can work with code samples, have long discussions, link to comments and so on. Over the time the list of answered questions will grow and provide a great knowledge database. Often an answer alone is not enough and the process to get to the answer is the interesting part.
+Yes! Github issues are a great Q&A tool. We can work with code samples, have long discussions, link to comments and so on. Over the time the list of answered questions will grow and provide a great knowledge database. Often an answer alone is not enough and the process to get there is the interesting part.
 
 
 ## Sponsoring
